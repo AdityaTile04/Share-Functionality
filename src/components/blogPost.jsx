@@ -1,6 +1,6 @@
-import React from 'react';
-import ShareButtons from './ShareButton';
-
+import React from "react";
+import ShareButtons from "./ShareButton";
+// This is a demo of blog post
 const BlogPost = ({ title, content, postUrl }) => {
   return (
     <div className="blog-post">
